@@ -9,8 +9,6 @@ lives separately from any specific project: the ideas, distinctions, and
 mistakes that come up while building evaluation infrastructure for AI that
 people actually rely on.
 
-Nothing here is final. These are notes, not papers. If something in here
-turns out to be wrong, the version that replaces it will say so.
 
 ### Contents
 
